@@ -1,0 +1,24 @@
+{
+  "name": "node-url-parser",
+  "version": "1.0.1",
+  "description": "The module can parse most urls into different usable parts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PallabJS/node-url-parser.git"
+  },
+  "keywords": [
+    "urlparser",
+    "urlparams",
+    "queryextractor"
+  ],
+  "author": "Pallab JS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PallabJS/node-url-parser/issues"
+  },
+  "homepage": "https://github.com/PallabJS/node-url-parser#readme"
+}
